@@ -1,0 +1,1247 @@
+
+
+/*For xs device*/
+
+@media(min-width: 275px) and (max-width: 320px){
+
+    /*  home page responsive start */
+
+.choosetext {
+    font-size: 17px;
+}
+.nav {
+    background: #bcc3c2;
+    position: relative;
+    z-index: 9999;
+    margin-left: 70px;
+    margin-right: 0px;
+}
+ul.nav.navbar-nav {  
+    padding-left: 42px;
+    padding-right: 1px;
+    margin-right: 18x;
+    margin-left: 72px;
+}
+
+.nav > li { 
+    margin-left: -25px;
+}
+
+.list-inline {
+    padding-left: 3px;
+}
+.list-inline > li {
+    display: inline-block;
+    padding-right: 1px;
+    padding-left: 2px;
+}
+
+#bootstrap-touch-slider {
+    height: 108px;
+}
+.choosetext {
+    padding-bottom: 0px;
+}
+
+
+.h3, h3 {
+    font-size: 22px;
+}
+.tourtext {
+    font-size: 12px;
+    padding-left: 47px;   
+}
+p {
+    font-size: 11px;
+}
+.bannerarea { 
+    margin-top: 20px;
+}
+
+p {
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.headingtext p {
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Arsenal',sans-serif;
+}
+
+.choosetext p {
+    font-size: 19px;
+}
+
+.pakagearea {
+    padding-top: 3px;
+    padding-left: -9px;
+    margin-right: -17px;
+    margin-left: -15px;
+}
+.pakoffer {
+    font-size: 16px; 
+}
+
+.pakagename {
+    font-size: 20px;   
+}
+
+.subbannerimg {
+    margin-top: -95px;
+}
+
+.textarea { 
+    font-size: 12px;
+}
+
+.subbannertext {
+    margin-top: 16px;
+    margin-bottom: 18px; 
+}
+
+.contentheader {
+    font-size: 22px; 
+}
+
+.wellcomebannertext p {
+    font-size: 11px;
+}
+  /*-----login registerstart----*/
+
+.loginregister {
+    background-color: #8fc2c5;
+    padding-left: 21px;
+    padding-right: 21px;
+    padding-bottom: 20px;
+    margin-top: 200px;
+    margin-left: 8px;
+    font-size: 13px;
+}
+.nav > li > a {
+    position: relative;
+    display: block;
+    padding: 1px 1px;
+    padding-right: 1px;
+}
+
+.textbacg a {
+    font-size: 12px;
+    color: white;
+}
+
+.contentheader {
+    font-size: 19px;
+}
+
+a.navbar-brand {
+   
+    padding-left: 11px;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #736464;
+}
+
+.navbar-toggle {
+    position: relative;
+    float: right;
+    padding: 9px 9px;
+    margin-top: 20px;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid transparent;
+        border-top-color: transparent;
+        border-right-color: transparent;
+        border-bottom-color: transparent;
+        border-left-color: transparent;
+    border-radius: 4px;
+}
+
+
+.wellcomebannertext h3 {
+    font-size: 19px;
+    padding-top: 7px;
+    padding-bottom: 1px;
+}
+
+.tourt {
+   
+    font-size: 10px;
+  
+}
+
+.tourd p {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 11px;
+}
+
+
+
+.contentimage {
+    text-align: center;
+    padding: 17px 0px 10px 0px;
+}
+
+
+.contenttext {
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    font-size: 11px;
+    font-family: 'Myriad pro',sans-serif;
+    padding-left: -3px;
+}
+
+
+.pakagename {
+    font-size: 8px;
+    font-weight: 600;
+}
+
+
+
+.pakoffer {
+    font-size: 9px;
+    font-family: 'Arsenal',sans-serif;
+    padding-left: 2px;
+    padding-right: 2px;
+    text-align: center;
+}
+
+
+
+
+
+.pakagearea {
+    padding-top: 10px;
+    padding-left: -9px;
+    margin-right: -13px;
+    margin-left: -13px;
+}
+.pakimage {
+    margin: -7px;
+}
+
+.pakoffer {
+    font-size: 8px;
+    font-family: 'Arsenal',sans-serif;
+    padding-left: 2px;
+    padding-right: 2px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.headingtext > p {
+    font-size: 18px;
+}
+
+
+
+
+.pakagearea {
+  
+    padding-bottom: -13px;
+}
+
+.pakagecontent {
+    padding-bottom: 118px;
+}
+.pakbutton {
+    margin-left: -48px;
+}
+
+a.btn.btn-default {
+    margin-top: -39px;
+    margin-bottom: 0px;
+    padding-left: 3px;
+    padding-right: 3px;
+    background-color: lightgrey;
+    color: saddlebrown;
+    margin-right: 63px;
+    font-size: 9px;
+}
+
+
+
+.textbacg p {
+    font-size: 12px;
+    color: white;
+    position: absolute;
+    width: 100%;
+    height: 96%;
+    margin: -65px;
+    line-height: 13px;
+  
+}
+
+
+.contentheader {
+    font-size: 12px;
+    font-weight: 700;
+        }    
+.ftextcontent {
+    padding-left: 3px;
+    font-size: 9px;
+}
+
+
+.contentheader {
+      padding-left: 2px;
+  }
+
+  .footer_social_icon {
+    font-size: 8px;
+}
+
+.list-inline {
+   
+    margin-left: -20px;
+    }
+
+    .copytext {
+    font-size: 10px;
+}
+
+/* about uspag start */
+
+.whotext p {
+    font-size: 32px;
+    text-align: left;
+    padding-left: 37px;
+    padding-bottom: 42px;
+}
+
+
+.bg {
+    background-color: white;
+    height: 351px;
+    width: 301px;
+    padding: 16px;
+    margin-bottom: 19px;
+}
+
+.ourimages {
+    padding-left: 67px;
+}
+
+.exename {
+    font-size: 15px;
+       margin-left: 0px;
+}
+
+a.navbar-brand {
+  
+    padding-left: 43px;
+}
+
+
+li.phone {
+   
+    margin-top: 1px;
+}
+
+p {
+    padding-left: 17px;
+}
+
+p.name {
+    font-size: 12px;
+    
+}
+
+p.price {
+    font-size: 11px;
+    margin-top: -19px;
+    margin-bottom: -10px;
+   
+}
+
+p.time {
+    font-size: 8px;
+}
+
+.hotelselector {
+   
+    padding-left: 3px;
+  
+}
+
+.btn{
+    font-size: 11px;
+}
+
+
+.bannertext {
+    font-size: 19px;
+    margin-top: -77px;
+    padding-left: 47px;
+}
+
+
+.textdec ol, ul {
+   
+    padding-top: 2px;
+}
+
+.btn {
+    font-size: 10px;
+}
+
+.bannertext {
+    
+    margin-top: -72px;
+ }
+
+   }/*End of 320px*/
+
+
+
+
+
+
+
+
+
+@media(min-width: 321px) and (max-width: 480px){
+
+
+	
+    .slide-text {
+        padding: 10px 30px;
+    }
+    .slide-text h1 {
+        font-size: 20px;
+        line-height: 25px;
+        margin-bottom: 5px;
+    }
+    .slide-text > p {
+        font-size: 12px;
+        line-height: 18px;
+        margin-bottom: 10px;
+    }
+    .slide-text > a.btn-default, 
+    .slide-text > a.btn-primary {
+        font-size: 10px;
+        line-height: 10px;
+        margin-right: 10px;
+        text-align: center;
+        padding: 10px 15px;
+    }
+    .indicators-line > .carousel-indicators{
+        display: none;
+    }
+
+	
+.navbar-nav {
+   
+    background-color: lightgrey;
+    position: relative;
+    z-index: 9999;
+}
+
+ul.nav.navbar-nav {
+    
+    margin-left: 112px;
+}
+
+.pakagename {
+    font-size: 13px;
+    padding-top: 10px;
+    font-weight: 600;
+}
+
+.pakoffer {
+    font-size: 10px;
+    font-family: 'Arsenal',sans-serif;
+    padding-left: 2px;
+    padding-right: 2px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.pakimage {
+    margin: -5px;
+}
+.headingtext {
+    font-size: 27px;
+   
+}
+
+.choosetext {
+    font-size: 22px;
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 1px;
+}
+
+.pakagearea {
+    
+    padding-bottom: 54px;
+}
+
+
+
+.navbar-toggle {
+ 
+    margin-top: 20px;
+  
+}
+
+
+.contentimage {
+    text-align: center;
+    padding: 10px 5px 5px 0px;
+}
+
+
+.contenttext {
+   
+    font-size: 12px;
+  
+}
+
+.wellcomebannertext h3 {
+    font-size: 26px;
+}
+
+.tourd p {
+    font-size: 11px;
+}
+
+.bannerarea {
+   
+    margin-top: 31px;
+}
+
+
+.pakagename {
+    font-size: 10px;
+   
+}
+
+.pakoffer {
+    font-size: 8px;
+    padding-bottom: 54px;
+}
+.headingtext {
+    font-size: 23px;
+}
+
+.pakagearea {
+
+    margin: -12px;
+     padding-bottom: 0px;
+}
+
+
+a.btn.btn-default {
+    margin-top: -62px;
+    margin-bottom: 18px;
+}
+
+.btn {
+    padding: 4px 5px;
+    margin-bottom: 0;
+    font-size: 16px;
+    border-radius: 1px;
+    margin-left: 20px;
+    background-color: wheat;
+}
+.btn-default {
+    color: #413131;
+    background-color: #CDDC39;
+    border-color: #ccc;
+}
+.btn-default {
+    color: #333;
+    background-color: #fff;
+   
+}
+
+a.btn.btn-default {
+    margin-top: -100px;
+    margin-bottom: 0px;
+}
+
+
+a.btn.btn-default {
+    margin-top: 18px;
+    margin-bottom: 0px;
+    padding-left: 3px;
+    padding-right: 3px;
+    background-color: lightgrey;
+    color: saddlebrown;
+    margin-left: 5px;
+    
+}
+.pakoffer {
+    
+    padding-bottom: 0px;
+}
+
+a.btn.btn-default {
+    margin-top: 18px;
+    margin-bottom: 13px;
+    padding-left: 3px;
+    padding-right: 3px;
+    margin-left: 18px;
+}
+
+
+
+.textbacg p {
+    font-size: 13px;
+    margin: -93px;
+    line-height: 20px;
+  
+}
+
+.contentheader {
+    font-size: 18px;
+  
+}
+.pakagecontent {
+    padding-bottom: 36px;
+}
+
+.pakbutton {
+    margin-right: -43px;
+}
+
+
+
+.contentheader {
+    font-size: 12px;
+    font-weight: 700;
+        }    
+.ftextcontent {
+    padding-left: 20px;
+    font-size: 9px;
+}
+
+
+.contentheader {
+      padding-left: 20px;
+  }
+
+  .footer_social_icon {
+    font-size: 10px;
+}
+
+.list-inline {
+   
+    margin-left: -3px;
+    }
+
+    .copytext {
+    font-size: 10px;
+}
+
+
+.btn-default {
+    color: #1e1313;
+    background-color: #a7e135;
+    padding: 3px;
+    font-size: 15px;
+    margin-left: 94px;
+}
+
+.exename {
+    font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 18px;
+    font-family: 'arsenal',sans-serif;
+    font-weight: 600;
+     margin-left: 25px; 
+    text-align: center;
+}
+
+
+
+.ourimages {
+    padding-left: 55px;
+}
+
+
+.exename {
+ 
+    margin-left: -91px;
+   
+}
+
+.whotext {
+    font-size: 28px;
+}
+
+.bg {
+   
+    width: 293px;
+    height: 343px;
+    padding: 13px;
+}
+
+.philtext {
+    font-size: 12px;
+}
+
+.navbar-toggle { 
+    margin-top: 21px;
+}
+
+a.navbar-brand {
+    padding-left: 43px;
+}
+
+p {
+    padding-left: 34px;
+  
+}
+
+.hotelselector {
+   
+    padding-left: 0px;
+  
+}
+
+
+.btn {
+   
+    font-size: 12px;
+    margin-left: 3px;
+    background-color: #314edd;
+}
+
+.hotelselector {
+    position: absolute;
+    z-index: 9000;
+    padding-left: 16px;
+    padding-bottom: 20;
+    margin-top: 10px;
+}
+
+ul.thumbnails.gallery {
+    margin-top: 22px;
+}
+.hotelselector {
+    margin-top: 34px;
+}
+.bannertext {
+    font-size: 23px;
+    margin-top: -92px;
+ 
+}
+
+.hotelselector {
+    margin-top: 4px;
+}
+ul.thumbnails.gallery {
+    margin-top: -10px;
+}
+
+p {
+    padding-left: 9px;
+}
+
+p.name {
+    font-size: 12px;
+}
+
+p.price {
+    font-size: 12px;
+}
+
+p.time {
+    font-size: 12px;
+}
+
+.bannertext {
+    font-size: 18px;
+    margin-top: -74px;
+}
+
+ul.nav.navbar-nav {
+    padding-left: 22px;
+}
+
+ul.nav.navbar-nav {
+    padding-left: 22px;   
+}
+
+}/*End of 480px*/
+
+@media(min-width: 481px) and (max-width: 640px){
+
+    ul.nav.navbar-nav {
+    background-color: lightgrey;
+    position: relative;
+    background-color: lightgray;
+    z-index: 9999;
+}
+    .pakagename {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.pakoffer {
+    font-size: 9px;
+    font-family: 'Arsenal',sans-serif;
+    padding-left: 2px;
+    padding-right: 2px;
+    text-align: center;
+    margin-bottom: 10px;
+    padding-bottom: 58px;
+}
+
+
+.textbacg p {
+    font-size: 23px;
+    margin: -128px;
+    line-height: 32px;
+
+}
+
+.pakagearea {
+    padding: 3px;
+    margin: -12px;
+}
+
+.pakbutton {
+    margin-left: -35px;
+    margin-bottom: -30px;
+}
+
+a.btn.btn-default {
+    margin-top: -101px;
+    padding-left: 7px;
+    padding-right: 8px;
+    font-size: 10px;
+    margin-left: 79px;
+}
+
+#subbanner {
+    margin-top: -61px;
+}
+
+
+.exename {
+   
+    margin-left: -277px;
+}
+
+a.navbar-brand {
+    padding-top: 21px;
+    padding-left: 43px;
+}
+.navbar-toggle {
+  
+    margin-top: 21px;
+  
+}
+p {
+    padding-left: 34px;
+    
+}
+
+
+
+}/*End of 640px*/
+
+@media(min-width: 641px) and (max-width: 767px){
+
+    .slide-text {
+        padding: 10px 50px;
+    }
+    .slide-text h1 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 10px;
+    }
+    .slide-text > p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 20px;
+    }
+    .control-round .carousel-control{
+        display: none;
+    }
+
+  .tourtext {
+    font-size: 16px;
+    padding-left: 202px;
+    font-family: 'Arsenal',sans-serif;
+    font-weight: 500;
+}     
+
+.tourtext p {
+    padding-left: 27px;
+    
+    }
+.contentimage {
+    padding-left: 240px;
+}
+
+.pakagearea {
+    padding: 5px;
+    margin: -10px;
+}
+.pakoffer {
+    padding-bottom: 64px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 1px 4px;
+    padding-right: 4px;
+    padding-left: 4px;
+    margin-bottom: 0;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    border-radius: 1px;
+    margin-left: 11px;
+}
+.pakbutton {
+    margin-left: -59px;
+}
+ul.nav.navbar-nav {
+    padding-top: 5px;
+    padding-left: 9px;
+    font-size: 11px;
+    margin-left: 434px;
+    background-color: lightgrey;
+    position: relative;
+    z-index: 9999;
+}
+.navbar-brand {
+    float: left;
+    height: 75px;
+   }
+.contentimage {
+    text-align: center;
+    padding: 21px 13px 17px 42px;
+}
+.pakoffer {
+    font-size: 13px;
+    padding-right: 10px;
+}
+.pakbutton {
+    margin-left: 41px;
+}
+.pakagecontent {
+    padding-bottom: 59px;
+}
+.pakbutton {
+    margin-left: 41px;
+    margin-bottom: -18px;
+}
+.textbacg p {
+    font-size: 37px;
+    color: white;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: -157px;
+    line-height: 39px;
+    text-align: center;
+    -moz-transform: translateX(100%);
+    -webkit-transform: translateX(100%);
+    transform: translateX(100%);
+    -moz-animation: textbacg 15s linear infinite;
+    -webkit-animation: textbacg 15s linear infinite;
+    animation: textbacg 15s linear infinite;
+}
+.exename {
+    margin-left: -431px;
+}
+a.navbar-brand {
+    padding-left: 62px;
+}
+.navbar-toggle {
+    margin-top: 20px;
+}
+p {
+    padding-left: 32px; 
+}
+.thumbnail {
+    margin-left: 40px;
+}
+.hotelselector {
+    padding-left: 305px;
+}
+.btn { 
+    margin-left: 2px;
+}
+ul.nav.navbar-nav {
+    padding-left: 0px;
+}
+
+.navbar-nav>li>a {
+    float: left;
+    margin-right: -12px;
+}
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 1px 7px;
+}
+
+}/*End of 767px*/
+
+/*For sm device*/
+
+@media(min-width: 768px) and (max-width: 991px){
+
+          
+    .slide-text h1 {
+        font-size: 50px;
+        line-height: 50px;
+        margin-bottom: 20px;
+    }
+    .slide-text > p {
+
+        font-size: 12px;
+    }
+
+li {
+    padding-right: -6px;
+    padding-left: -6px;
+}
+
+.textarea {
+font-size: 24px;
+    
+}
+
+.contentimage a  {
+    text-align: center;
+    padding: 15px 15px 15px 243px;
+}
+
+.contentimage {
+    text-align: center;
+    padding: 15px 15px 15px 242px;
+}
+
+.contenttext {
+    
+    margin-right: 53px;
+}
+
+.contentimage {
+    text-align: center;
+    padding: 0px 10px 0px 0px;
+}
+
+.contenttext {
+    padding-top: 6px;
+    padding-bottom: 39px;
+    font-size: 13px;
+    padding-left: -3px;
+    padding-left: 16px;
+}
+
+.choosetext {
+    font-size: 26px;
+    padding-top: 6px;
+    text-align: center;
+    padding-bottom: 0px;
+}
+
+.wellcomebannertext h3 {
+    font-size: 26px;
+}
+
+.tourd p {
+    font-size: 11px;
+    padding: 18px;
+}
+
+.tourt {
+  
+    margin-bottom: -7px;
+}
+
+.bannerarea {
+    margin-bottom: 20px;
+    margin-top: 21px;
+}
+
+.pakagearea {
+    margin: -10px;
+}
+
+.pakoffer {
+    font-size: 13px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.headingtext {
+    font-size: 29px;
+}
+
+.pakagecontent {
+    padding-bottom: 54px;
+}
+	
+.textbacg p {
+    font-size: 29px;
+    color: white;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: -164px;
+    line-height: 32px;
+    text-align: center;
+    -moz-transform: translateX(100%);
+    -webkit-transform: translateX(100%);
+    transform: translateX(100%);
+    -moz-animation: textbacg 15s linear infinite;
+    -webkit-animation: textbacg 15s linear infinite;
+    animation: textbacg 15s linear infinite;
+}
+
+.footer_social_icon {
+    font-size: 18px;
+}
+
+.contentheader {
+    font-size: 19px;
+}
+
+.philtext {
+    font-size: 11px;
+}
+
+.exename {
+ 
+    margin-left: 30px;
+}
+
+.bg {
+    width: 365px;
+    height: 428px;
+    padding: 17px;
+}
+div#footer {
+    margin-top: -86px;
+}
+
+.bg {
+    margin-top: 19px;
+}
+
+.whotext {
+    font-size: 31px;
+}
+
+div#singleblog {
+    padding-bottom: 100px;
+}
+
+ul.nav.navbar-nav {
+    margin-left: -14px;
+}
+li.ctrt {
+    
+    font-size: 24px;
+   
+}
+
+p {
+    padding-left: 11px;
+}
+
+.googlemap {
+    padding-bottom: 116px;
+}
+
+.thumbnail .caption {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.thumbnail {
+    margin-left: 0px;
+}
+
+p.name {
+    font-size: 16px;
+  
+}
+.hotelselector {
+    padding-left: 362px;  
+}
+.bannertext {
+    margin-left: 148px;
+}
+
+
+/*End of 991px*/
+
+/*For md device*/
+}
+
+@media(min-width: 992px) and (max-width: 1024px){
+
+.headingtext {
+font-size: 29px;
+}	
+.pakagecontent {
+padding-bottom: 63px;
+}
+.textbacg p {
+font-size: 38px;
+margin: -239px;  
+}
+.textarea {
+    padding-right: 118px;
+    padding-left:27px ; 
+}
+
+/*single blog start*/
+
+
+.blogheading {
+    font-size: 26px;
+}
+
+p {
+    padding-left: 32px;
+}
+
+
+
+
+/*End of 1024px*/
+}
+@media(min-width: 1025px) and (max-width: 1199px){
+/*-------FAQS------*/
+
+
+
+ /* About us end*/
+
+}/*End of 1199px*/
+
+/*For lg device*/
+
+@media(min-width: 1200px) and (max-width: 1920px){
+
+    .nav>li>a {
+    padding: 14px 27px;
+}
+
+.nav>li>a {
+    color: #0d0101;
+    font-size: 14px;
+}
+
+
+}/*End of 1920px*/
+
+/
